@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sequence saveFileVersion="15" id="1f66db40-9702-47e5-b99b-815c769ddff3" totalCentiseconds="6000" WaveHeight="0" LockTimings="True" TimingGridIdx="0" DragEventsWithTimings="True" DefaultMotionEffectRows="1" author="Guillermo Rivera" createdAt="12/20/2018 7:32 PM" NameAreaWidth="143" ZoomWidth="15" ZoomHeight="16" GridView="Show All Items" StartColor="FFFF0000" EndColor="FF00FF00">
+  <PreviewClass id="23cd94f1-d1de-427d-bd7d-2bb3d8783a7b" BackgroundFile="\\Mac\Home\Downloads\IMG_2388.jpg" Brightness="11" Revision="9" Name="Entire display - COPY">
+    <PropClass id="57a529fb-9635-49ea-a71e-1b06d163049e" BulbShape="Star_4" ChannelGrid="Regular,03,1,1,0,White" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="20" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Rooms L" Parm1="1" Parm2="50">
+      <shape ShapeName="Lines-Unconnected">
+        <point x="-0.601057" y="0.1651417" />
+        <point x="-0.3882439" y="0.1890619" />
+      </shape>
+    </PropClass>
+    <PropClass id="becf405b-27c7-4243-88d2-1289e6139fe2" BulbShape="Star_4" ChannelGrid="Regular,03,2,2,0,White" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="20" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Rooms R" Parm1="1" Parm2="50">
+      <shape ShapeName="Lines-Unconnected">
+        <point x="-0.3891956" y="0.1824291" />
+        <point x="-0.1938849" y="0.1900313" />
+      </shape>
+    </PropClass>
+    <PropClass id="5fe3ec44-a740-4054-9432-948fa19f5d80" BulbShape="Star_4" ChannelGrid="Regular,03,3,3,0,White" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="20" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Entrance L" Parm1="1">
+      <shape ShapeName="Bulbs">
+        <point x="-0.2604471" y="0.2845629" />
+      </shape>
+    </PropClass>
+    <PropClass id="43b11ea3-0a2c-4e81-8653-ce68c66abca6" BulbShape="Star_4" ChannelGrid="Regular,03,4,4,0,White" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="20" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Entrance M" Parm1="1" Parm2="50">
+      <shape ShapeName="Lines-Unconnected">
+        <point x="-0.2531249" y="0.3376119" />
+        <point x="0.4824841" y="0.3561782" />
+      </shape>
+    </PropClass>
+    <PropClass id="a117b5cc-1b83-4aab-afcb-e5eb901c1cc4" BulbShape="Star_4" ChannelGrid="Regular,03,5,5,0,White" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="20" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Entrance R" Parm1="1">
+      <shape ShapeName="Bulbs">
+        <point x="0.4884439" y="0.299421" />
+      </shape>
+    </PropClass>
+    <PropClass id="b11ef4d9-4b63-423e-9986-2ca3abc5d42e" BulbShape="Star_4" ChannelGrid="Regular,03,6,6,0,White" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="20" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="5 Garage" Parm1="1" Parm2="50">
+      <shape ShapeName="Lines-Unconnected">
+        <point x="0.398265" y="0.1871402" />
+        <point x="0.6202093" y="0.1889722" />
+      </shape>
+    </PropClass>
+    <PropClass id="9158d226-10e3-4456-a6fd-5ed8e3e394bf" BulbShape="Snowfall_Tube" ChannelGrid="Regular,03,7,7,0,Red" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="20" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom Left" StringType="Traditional" TraditionalColors="Red" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Spiral L" Parm1="1" Parm2="99" Parm3="2">
+      <shape ShapeName="Candycane-Left" OffsetX="-0.567034" OffsetY="-0.05379938" ScaleX="0.0620147" ScaleY="0.2880679" Radians="0" />
+    </PropClass>
+    <PropClass id="af221b3a-673b-40c0-ac64-678b2e44ec4b" BulbShape="Snowfall_Tube" ChannelGrid="Regular,03,8,8,0,Red" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="20" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom Left" StringType="Traditional" TraditionalColors="Red" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Spiral M" Parm1="1" Parm2="99" Parm3="2">
+      <shape ShapeName="Candycane-Left" OffsetX="-0.3959995" OffsetY="-0.0505249" ScaleX="0.07163288" ScaleY="0.3204855" Radians="0" />
+    </PropClass>
+    <PropClass id="babceebe-0a25-411f-ab73-1c2ca866ad30" BulbShape="Snowfall_Tube" ChannelGrid="Regular,03,9,9,0,Red" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="20" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="Bottom Left" StringType="Traditional" TraditionalColors="Red" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Spiral R" Parm1="1" Parm2="99" Parm3="2">
+      <shape ShapeName="Candycane-Left" OffsetX="-0.1802591" OffsetY="-0.04273345" ScaleX="0.07747774" ScaleY="0.2784605" Radians="0" />
+    </PropClass>
+    <PropClass id="13f592cc-24e7-4442-960b-f9e3b102b5de" BulbShape="Pentagon" ChannelGrid="Regular,03,10,10,0,White" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="20" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Tree L" Parm1="1" Parm2="50">
+      <shape ShapeName="Arch" OffsetX="-0.4723032" OffsetY="-0.1059792" ScaleX="0.04046248" ScaleY="0.1632771" Radians="0" />
+    </PropClass>
+    <PropClass id="7f7c2b9b-eff1-4309-b40e-c6f385746cef" BulbShape="Pentagon" ChannelGrid="Regular,03,11,11,0,White" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="255" PreviewBulbSize="20" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="Tree R" Parm1="1" Parm2="50">
+      <shape ShapeName="Arch" OffsetX="-0.281827" OffsetY="-0.1096292" ScaleX="0.0450869" ScaleY="0.1693327" Radians="0" />
+    </PropClass>
+    <PropClass id="76622396-1a33-427a-8013-57f865731a92" BulbShape="Pentagon" ChannelGrid="Regular,03,12,12,0,White" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="15" PreviewBulbSize="20" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="NA 03.12" Parm1="1">
+      <shape ShapeName="Bulbs">
+        <point x="0.04434228" y="-0.3943594" />
+      </shape>
+    </PropClass>
+    <PropClass id="742e14bb-08ac-42b9-ba62-12212790e4da" BulbShape="Pentagon" ChannelGrid="Regular,03,13,13,0,White" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="15" PreviewBulbSize="20" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="NA 03.13" Parm1="1">
+      <shape ShapeName="Bulbs">
+        <point x="0.09251988" y="-0.3943594" />
+      </shape>
+    </PropClass>
+    <PropClass id="59a9fd72-2e5a-4f69-bdc7-e8dc87e60e92" BulbShape="Pentagon" ChannelGrid="Regular,03,14,14,0,White" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="15" PreviewBulbSize="20" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="NA 03.14" Parm1="1">
+      <shape ShapeName="Bulbs">
+        <point x="0.1406982" y="-0.3943594" />
+      </shape>
+    </PropClass>
+    <PropClass id="f86d624f-5687-49ac-9b4d-cdcd20640448" BulbShape="Pentagon" ChannelGrid="Regular,03,15,15,0,White" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="15" PreviewBulbSize="20" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="NA 03.15" Parm1="1">
+      <shape ShapeName="Bulbs">
+        <point x="0.1888753" y="-0.3943594" />
+      </shape>
+    </PropClass>
+    <PropClass id="fb3182f8-0162-4133-81d2-63f8185d1c6c" BulbShape="Pentagon" ChannelGrid="Regular,03,16,16,0,White" Comment="" CustomBulbColor="FFFFFFFF" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="True" MaxChannels="16" Opacity="15" PreviewBulbSize="20" RgbOrder="RGB order" MasterPropId="" SeparateIds="False" StartLocation="n/a" StringType="Traditional" TraditionalColors="White" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="NA 03.16" Parm1="1">
+      <shape ShapeName="Bulbs">
+        <point x="0.2370521" y="-0.3943594" />
+      </shape>
+    </PropClass>
+    <PropClass id="351da093-9a92-4904-9774-c6d4272d28f6" BulbShape="Square" ChannelGrid="Regular,01,1,300,0,;Regular,02,1,300,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" MaxChannels="510" Opacity="255" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="8 LED Matrix" Parm1="2" Parm2="100" Parm3="9">
+      <shape ShapeName="Matrix-Horizontal-Rectangle" OffsetX="0.4522612" OffsetY="-0.05664373" ScaleX="0.1097179" ScaleY="0.2548038" Radians="0" />
+    </PropClass>
+    <PropGroup id="5346571c-762a-4804-ac73-f89e2ac99537" Arrangement="None" PreviewResFactor="1" EffectBulbSize="1" Name="1 AC Panel">
+      <member id="57a529fb-9635-49ea-a71e-1b06d163049e" orientation="normal" />
+      <member id="becf405b-27c7-4243-88d2-1289e6139fe2" orientation="normal" />
+      <member id="5fe3ec44-a740-4054-9432-948fa19f5d80" orientation="normal" />
+      <member id="43b11ea3-0a2c-4e81-8653-ce68c66abca6" orientation="normal" />
+      <member id="a117b5cc-1b83-4aab-afcb-e5eb901c1cc4" orientation="normal" />
+      <member id="b11ef4d9-4b63-423e-9986-2ca3abc5d42e" orientation="normal" />
+      <member id="9158d226-10e3-4456-a6fd-5ed8e3e394bf" orientation="normal" />
+      <member id="af221b3a-673b-40c0-ac64-678b2e44ec4b" orientation="normal" />
+      <member id="babceebe-0a25-411f-ab73-1c2ca866ad30" orientation="normal" />
+      <member id="13f592cc-24e7-4442-960b-f9e3b102b5de" orientation="normal" />
+      <member id="7f7c2b9b-eff1-4309-b40e-c6f385746cef" orientation="normal" />
+      <member id="76622396-1a33-427a-8013-57f865731a92" orientation="normal" />
+      <member id="742e14bb-08ac-42b9-ba62-12212790e4da" orientation="normal" />
+      <member id="59a9fd72-2e5a-4f69-bdc7-e8dc87e60e92" orientation="normal" />
+      <member id="f86d624f-5687-49ac-9b4d-cdcd20640448" orientation="normal" />
+      <member id="fb3182f8-0162-4133-81d2-63f8185d1c6c" orientation="normal" />
+    </PropGroup>
+    <PropGroup id="ad256813-4a92-4af1-9a78-be73b4d38c0a" Arrangement="None" PreviewResFactor="1" EffectBulbSize="1" Name="4 Entrance">
+      <member id="5fe3ec44-a740-4054-9432-948fa19f5d80" orientation="normal" />
+      <member id="43b11ea3-0a2c-4e81-8653-ce68c66abca6" orientation="normal" />
+      <member id="a117b5cc-1b83-4aab-afcb-e5eb901c1cc4" orientation="normal" />
+    </PropGroup>
+    <PropGroup id="27325163-2fe3-4405-80ea-78f41316199b" Arrangement="None" PreviewResFactor="1" EffectBulbSize="1" Name="3 Rooms">
+      <member id="57a529fb-9635-49ea-a71e-1b06d163049e" orientation="normal" />
+      <member id="becf405b-27c7-4243-88d2-1289e6139fe2" orientation="normal" />
+    </PropGroup>
+    <PropGroup id="7cc0fe08-d536-4706-88b1-58049e5d07d6" Arrangement="None" PreviewResFactor="1" EffectBulbSize="1" Name="6 Spiral">
+      <member id="9158d226-10e3-4456-a6fd-5ed8e3e394bf" orientation="normal" />
+      <member id="af221b3a-673b-40c0-ac64-678b2e44ec4b" orientation="normal" />
+      <member id="babceebe-0a25-411f-ab73-1c2ca866ad30" orientation="normal" />
+    </PropGroup>
+    <PropGroup id="5d1a1a3a-da13-40f6-a155-21b58cc5c018" Arrangement="None" PreviewResFactor="1" EffectBulbSize="1" Name="7 Tree">
+      <member id="13f592cc-24e7-4442-960b-f9e3b102b5de" orientation="normal" />
+      <member id="7f7c2b9b-eff1-4309-b40e-c6f385746cef" orientation="normal" />
+    </PropGroup>
+    <PropGroup id="e3193a89-3594-44dd-8faa-55348cd78894" Arrangement="None" PreviewResFactor="1" EffectBulbSize="1" Name="2 AC Trim">
+      <member id="5fe3ec44-a740-4054-9432-948fa19f5d80" orientation="normal" />
+      <member id="43b11ea3-0a2c-4e81-8653-ce68c66abca6" orientation="normal" />
+      <member id="a117b5cc-1b83-4aab-afcb-e5eb901c1cc4" orientation="normal" />
+      <member id="b11ef4d9-4b63-423e-9986-2ca3abc5d42e" orientation="normal" />
+      <member id="57a529fb-9635-49ea-a71e-1b06d163049e" orientation="normal" />
+      <member id="becf405b-27c7-4243-88d2-1289e6139fe2" orientation="normal" />
+    </PropGroup>
+  </PreviewClass>
+  <BeatChannels MaxDisplayedRows="10" />
+  <Subsequences />
+  <SequenceProps>
+    <SeqProp id="57a529fb-9635-49ea-a71e-1b06d163049e" name="Rooms L" EnablePixelChannels="0">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="0" endCentisecond="200" intensity="100" settings="SHIMMER" />
+        <effect startCentisecond="1200" endCentisecond="6000" intensity="100" settings="TWINKLE" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="becf405b-27c7-4243-88d2-1289e6139fe2" name="Rooms R" EnablePixelChannels="0">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="0" endCentisecond="200" intensity="100" settings="SHIMMER" />
+        <effect startCentisecond="1200" endCentisecond="6000" intensity="100" settings="TWINKLE" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="5fe3ec44-a740-4054-9432-948fa19f5d80" name="Entrance L" EnablePixelChannels="0">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="200" endCentisecond="400" intensity="100" settings="SHIMMER" />
+        <effect startCentisecond="1200" endCentisecond="6000" intensity="100" settings="TWINKLE" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="43b11ea3-0a2c-4e81-8653-ce68c66abca6" name="Entrance M" EnablePixelChannels="0">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="200" endCentisecond="400" intensity="100" settings="SHIMMER" />
+        <effect startCentisecond="1200" endCentisecond="6000" intensity="100" settings="TWINKLE" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="a117b5cc-1b83-4aab-afcb-e5eb901c1cc4" name="Entrance R" EnablePixelChannels="0">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="200" endCentisecond="400" intensity="100" settings="SHIMMER" />
+        <effect startCentisecond="1200" endCentisecond="6000" intensity="100" settings="TWINKLE" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="b11ef4d9-4b63-423e-9986-2ca3abc5d42e" name="5 Garage" EnablePixelChannels="0">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="400" endCentisecond="600" intensity="100" settings="SHIMMER" />
+        <effect startCentisecond="1200" endCentisecond="6000" intensity="100" settings="TWINKLE" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="9158d226-10e3-4456-a6fd-5ed8e3e394bf" name="Spiral L" EnablePixelChannels="0">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="600" endCentisecond="800" intensity="100" settings="SHIMMER" />
+        <effect startCentisecond="1200" endCentisecond="6000" intensity="100" settings="TWINKLE" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="af221b3a-673b-40c0-ac64-678b2e44ec4b" name="Spiral M" EnablePixelChannels="0">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="600" endCentisecond="800" intensity="100" settings="SHIMMER" />
+        <effect startCentisecond="1200" endCentisecond="6000" intensity="100" settings="TWINKLE" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="babceebe-0a25-411f-ab73-1c2ca866ad30" name="Spiral R" EnablePixelChannels="0">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="600" endCentisecond="800" intensity="100" settings="SHIMMER" />
+        <effect startCentisecond="1200" endCentisecond="6000" intensity="100" settings="TWINKLE" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="13f592cc-24e7-4442-960b-f9e3b102b5de" name="Tree L" EnablePixelChannels="0">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="800" endCentisecond="1000" intensity="100" settings="SHIMMER" />
+        <effect startCentisecond="1200" endCentisecond="6000" intensity="100" settings="TWINKLE" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="7f7c2b9b-eff1-4309-b40e-c6f385746cef" name="Tree R" EnablePixelChannels="0">
+      <channel row="0" col="0" color="0">
+        <effect startCentisecond="800" endCentisecond="1000" intensity="100" settings="SHIMMER" />
+        <effect startCentisecond="1200" endCentisecond="6000" intensity="100" settings="TWINKLE" />
+      </channel>
+    </SeqProp>
+    <SeqProp id="76622396-1a33-427a-8013-57f865731a92" name="NA 03.12" EnablePixelChannels="0" />
+    <SeqProp id="742e14bb-08ac-42b9-ba62-12212790e4da" name="NA 03.13" EnablePixelChannels="0" />
+    <SeqProp id="59a9fd72-2e5a-4f69-bdc7-e8dc87e60e92" name="NA 03.14" EnablePixelChannels="0" />
+    <SeqProp id="f86d624f-5687-49ac-9b4d-cdcd20640448" name="NA 03.15" EnablePixelChannels="0" />
+    <SeqProp id="fb3182f8-0162-4133-81d2-63f8185d1c6c" name="NA 03.16" EnablePixelChannels="0" />
+    <SeqProp id="351da093-9a92-4904-9774-c6d4272d28f6" name="8 LED Matrix" EnablePixelChannels="0">
+      <track id="6c054f31-e432-4487-b5c9-eb1fb8a31a3e" name="Effects 01">
+        <effect startCentisecond="1000" endCentisecond="1200" intensity="100" settings="Mix_Average|0|0|blink_in_unison|20|lightorama_colorwash:FFFF0000,FF00FF00,1:full,full|lightorama_none::|0" />
+        <effect startCentisecond="1200" endCentisecond="6000" intensity="100" settings="Mix_Average|0|0|full|20|lightorama_twinkle:FFFF0000,FF00FF00,1:50,25,twinkle,random,0,255|lightorama_none::|0" />
+      </track>
+    </SeqProp>
+    <SeqProp id="5346571c-762a-4804-ac73-f89e2ac99537" name="1 AC Panel" EnablePixelChannels="0" />
+    <SeqProp id="ad256813-4a92-4af1-9a78-be73b4d38c0a" name="4 Entrance" EnablePixelChannels="0" />
+    <SeqProp id="27325163-2fe3-4405-80ea-78f41316199b" name="3 Rooms" EnablePixelChannels="0" />
+    <SeqProp id="7cc0fe08-d536-4706-88b1-58049e5d07d6" name="6 Spiral" EnablePixelChannels="0" />
+    <SeqProp id="5d1a1a3a-da13-40f6-a155-21b58cc5c018" name="7 Tree" EnablePixelChannels="0" />
+    <SeqProp id="e3193a89-3594-44dd-8faa-55348cd78894" name="2 AC Trim" EnablePixelChannels="0" />
+  </SequenceProps>
+  <ArchivedProps />
+  <RgbAggregates />
+  <TimingGrids>
+    <TimingGridFixed name="Fixed 0.1" spacing="10" />
+  </TimingGrids>
+  <BeatView />
+  <PropViews>
+    <PropView name="Show All Items" verson="2">
+      <ViewMember id="5346571c-762a-4804-ac73-f89e2ac99537" category="Item_Summary">
+        <ViewMember id="5346571c-762a-4804-ac73-f89e2ac99537" category="Member_Props">
+          <ViewMember id="57a529fb-9635-49ea-a71e-1b06d163049e/0-0-0" category="Event_Collection" />
+          <ViewMember id="becf405b-27c7-4243-88d2-1289e6139fe2/0-0-0" category="Event_Collection" />
+          <ViewMember id="5fe3ec44-a740-4054-9432-948fa19f5d80/0-0-0" category="Event_Collection" />
+          <ViewMember id="43b11ea3-0a2c-4e81-8653-ce68c66abca6/0-0-0" category="Event_Collection" />
+          <ViewMember id="a117b5cc-1b83-4aab-afcb-e5eb901c1cc4/0-0-0" category="Event_Collection" />
+          <ViewMember id="b11ef4d9-4b63-423e-9986-2ca3abc5d42e/0-0-0" category="Event_Collection" />
+          <ViewMember id="9158d226-10e3-4456-a6fd-5ed8e3e394bf/0-0-0" category="Event_Collection" />
+          <ViewMember id="af221b3a-673b-40c0-ac64-678b2e44ec4b/0-0-0" category="Event_Collection" />
+          <ViewMember id="babceebe-0a25-411f-ab73-1c2ca866ad30/0-0-0" category="Event_Collection" />
+          <ViewMember id="13f592cc-24e7-4442-960b-f9e3b102b5de/0-0-0" category="Event_Collection" />
+          <ViewMember id="7f7c2b9b-eff1-4309-b40e-c6f385746cef/0-0-0" category="Event_Collection" />
+          <ViewMember id="76622396-1a33-427a-8013-57f865731a92/0-0-0" category="Event_Collection" />
+          <ViewMember id="742e14bb-08ac-42b9-ba62-12212790e4da/0-0-0" category="Event_Collection" />
+          <ViewMember id="59a9fd72-2e5a-4f69-bdc7-e8dc87e60e92/0-0-0" category="Event_Collection" />
+          <ViewMember id="f86d624f-5687-49ac-9b4d-cdcd20640448/0-0-0" category="Event_Collection" />
+          <ViewMember id="fb3182f8-0162-4133-81d2-63f8185d1c6c/0-0-0" category="Event_Collection" />
+        </ViewMember>
+      </ViewMember>
+      <ViewMember id="e3193a89-3594-44dd-8faa-55348cd78894" category="Item_Summary">
+        <ViewMember id="e3193a89-3594-44dd-8faa-55348cd78894" category="Member_Props">
+          <ViewMember id="5fe3ec44-a740-4054-9432-948fa19f5d80/0-0-0" category="Event_Collection" />
+          <ViewMember id="43b11ea3-0a2c-4e81-8653-ce68c66abca6/0-0-0" category="Event_Collection" />
+          <ViewMember id="a117b5cc-1b83-4aab-afcb-e5eb901c1cc4/0-0-0" category="Event_Collection" />
+          <ViewMember id="b11ef4d9-4b63-423e-9986-2ca3abc5d42e/0-0-0" category="Event_Collection" />
+          <ViewMember id="57a529fb-9635-49ea-a71e-1b06d163049e/0-0-0" category="Event_Collection" />
+          <ViewMember id="becf405b-27c7-4243-88d2-1289e6139fe2/0-0-0" category="Event_Collection" />
+        </ViewMember>
+      </ViewMember>
+      <ViewMember id="27325163-2fe3-4405-80ea-78f41316199b" category="Item_Summary">
+        <ViewMember id="27325163-2fe3-4405-80ea-78f41316199b" category="Member_Props">
+          <ViewMember id="57a529fb-9635-49ea-a71e-1b06d163049e/0-0-0" category="Event_Collection" />
+          <ViewMember id="becf405b-27c7-4243-88d2-1289e6139fe2/0-0-0" category="Event_Collection" />
+        </ViewMember>
+      </ViewMember>
+      <ViewMember id="ad256813-4a92-4af1-9a78-be73b4d38c0a" category="Item_Summary">
+        <ViewMember id="ad256813-4a92-4af1-9a78-be73b4d38c0a" category="Member_Props">
+          <ViewMember id="5fe3ec44-a740-4054-9432-948fa19f5d80/0-0-0" category="Event_Collection" />
+          <ViewMember id="43b11ea3-0a2c-4e81-8653-ce68c66abca6/0-0-0" category="Event_Collection" />
+          <ViewMember id="a117b5cc-1b83-4aab-afcb-e5eb901c1cc4/0-0-0" category="Event_Collection" />
+        </ViewMember>
+      </ViewMember>
+      <ViewMember id="b11ef4d9-4b63-423e-9986-2ca3abc5d42e" category="Item_Summary" />
+      <ViewMember id="7cc0fe08-d536-4706-88b1-58049e5d07d6" category="Item_Summary">
+        <ViewMember id="7cc0fe08-d536-4706-88b1-58049e5d07d6" category="Member_Props">
+          <ViewMember id="9158d226-10e3-4456-a6fd-5ed8e3e394bf/0-0-0" category="Event_Collection" />
+          <ViewMember id="af221b3a-673b-40c0-ac64-678b2e44ec4b/0-0-0" category="Event_Collection" />
+          <ViewMember id="babceebe-0a25-411f-ab73-1c2ca866ad30/0-0-0" category="Event_Collection" />
+        </ViewMember>
+      </ViewMember>
+      <ViewMember id="5d1a1a3a-da13-40f6-a155-21b58cc5c018" category="Item_Summary">
+        <ViewMember id="5d1a1a3a-da13-40f6-a155-21b58cc5c018" category="Member_Props">
+          <ViewMember id="13f592cc-24e7-4442-960b-f9e3b102b5de/0-0-0" category="Event_Collection" />
+          <ViewMember id="7f7c2b9b-eff1-4309-b40e-c6f385746cef/0-0-0" category="Event_Collection" />
+        </ViewMember>
+      </ViewMember>
+      <ViewMember id="351da093-9a92-4904-9774-c6d4272d28f6" category="Item_Summary" />
+      <ViewMember id="5fe3ec44-a740-4054-9432-948fa19f5d80" category="Item_Summary" />
+      <ViewMember id="43b11ea3-0a2c-4e81-8653-ce68c66abca6" category="Item_Summary" />
+      <ViewMember id="a117b5cc-1b83-4aab-afcb-e5eb901c1cc4" category="Item_Summary" />
+      <ViewMember id="76622396-1a33-427a-8013-57f865731a92" category="Item_Summary" />
+      <ViewMember id="742e14bb-08ac-42b9-ba62-12212790e4da" category="Item_Summary" />
+      <ViewMember id="59a9fd72-2e5a-4f69-bdc7-e8dc87e60e92" category="Item_Summary" />
+      <ViewMember id="f86d624f-5687-49ac-9b4d-cdcd20640448" category="Item_Summary" />
+      <ViewMember id="fb3182f8-0162-4133-81d2-63f8185d1c6c" category="Item_Summary" />
+      <ViewMember id="57a529fb-9635-49ea-a71e-1b06d163049e" category="Item_Summary" />
+      <ViewMember id="becf405b-27c7-4243-88d2-1289e6139fe2" category="Item_Summary" />
+      <ViewMember id="9158d226-10e3-4456-a6fd-5ed8e3e394bf" category="Item_Summary" />
+      <ViewMember id="af221b3a-673b-40c0-ac64-678b2e44ec4b" category="Item_Summary" />
+      <ViewMember id="babceebe-0a25-411f-ab73-1c2ca866ad30" category="Item_Summary" />
+      <ViewMember id="13f592cc-24e7-4442-960b-f9e3b102b5de" category="Item_Summary" />
+      <ViewMember id="7f7c2b9b-eff1-4309-b40e-c6f385746cef" category="Item_Summary" />
+    </PropView>
+  </PropViews>
+</sequence>

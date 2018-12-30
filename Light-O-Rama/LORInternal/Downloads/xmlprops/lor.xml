@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modelinventory>
+    <vendor>
+        <name>Light-O-Rama, Inc.</name>
+        <website>http://www1.lightorama.com/</website>
+        <phone>518-539-9000</phone>
+    </vendor>
+    <models>
+        <model>
+            <name>Light-O-Rama Pixel Tree Kit 16x25. First string is in back.</name>
+            <weblink>http://store.lightorama.com/copitrkit.html</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/black-pixel-tree-kit-16-strips-of-25-pixels-2.gif</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/LOR_16x25_Tree_BackStart.lpeprop</lorprop>
+            <lights>400 pixel nodes</lights>
+        </model>
+        <model>
+            <name>Light-O-Rama Pixel Tree Kit 16x25. First string is on the left.</name>
+            <weblink>http://store.lightorama.com/copitrkit.html</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/black-pixel-tree-kit-16-strips-of-25-pixels-2.gif</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/LOR_16x25_Tree_LeftStart.lpeprop</lorprop>
+            <lights>400 pixel nodes</lights>
+        </model>
+        <model>
+            <name>Elden the Singing Tree</name>
+            <weblink>http://www1.lightorama.com/singing-faces/</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/TreesOfChristmasMugShots-Elden-1000-300x300.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/EldenSingingTree.lpeprop</lorprop>
+            <lights>190-200 smart pixels</lights>
+        </model>
+        <model>
+            <name>Felix the Singing Tree</name>
+            <weblink>http://www1.lightorama.com/singing-faces/</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/TreesOfChristmasMugShots-Felix-1000-300x300.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/FelixSingingTree.lpeprop</lorprop>
+            <lights>190-200 smart pixels</lights>
+        </model>
+        <model>
+            <name>Ralphie the Singing Tree</name>
+            <weblink>http://www1.lightorama.com/singing-faces/</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/TreesOfChristmasMugShots-Ralphie-1000-300x300.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/RalphieSingingTree.lpeprop</lorprop>
+            <lights>190-200 smart pixels</lights>
+        </model>
+        <model>
+            <name>Zuzu the Singing Tree</name>
+            <weblink>http://www1.lightorama.com/singing-faces/</weblink>
+            <imagefile>http://lor2.com/showtime/prod/xmlprops/TreesOfChristmasMugShots-Zuzu-1000-300x300.jpg</imagefile>
+            <lorprop>http://lor2.com/showtime/prod/xmlprops/ZuzuSingingTree.lpeprop</lorprop>
+            <lights>190-200 smart pixels</lights>
+        </model>
+    </models>
+</modelinventory>

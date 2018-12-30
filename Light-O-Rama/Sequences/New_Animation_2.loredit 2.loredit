@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sequence saveFileVersion="15" id="5fdb7049-bca2-448e-b29f-57e8f5dea6a8" totalCentiseconds="6000" WaveHeight="0" LockTimings="True" TimingGridIdx="0" DragEventsWithTimings="True" DefaultMotionEffectRows="1" author="Guillermo Rivera" createdAt="11/27/2018 7:35 PM" NameAreaWidth="178" ZoomWidth="15" ZoomHeight="16" GridView="Show All Items" StartColor="FFFF0000" EndColor="FF00FF00">
+  <PreviewClass id="6900cde1-dfee-4adf-aab9-3b169cddb775" BackgroundFile="\\Mac\Home\Desktop\IMG_7202 copy.jpg" Brightness="20" Revision="0" Name="Entirte display">
+    <PropClass id="1da9c4a8-84bc-4dac-890d-5f1c58976ee5" BulbShape="Square" ChannelGrid="Regular,01,1,300,0,;Regular,02,1,300,0," Comment="" CustomBulbColor="FFFFFF80" DeviceType="LOR" DimmingCurveName="None" IndividualChannels="False" MaxChannels="510" Opacity="159" PreviewBulbSize="2" RgbOrder="RGB order" MasterPropId="" SeparateIds="True" StartLocation="Bottom Left" StringType="RGB" TraditionalColors="" TraditionalType="Multicolor_string_1_ch" EffectBulbSize="1" Name="LED Square" Parm1="2" Parm2="100" Parm3="9">
+      <shape ShapeName="Matrix-Horizontal-Rectangle" OffsetX="-0.7135679" OffsetY="-1.085269" ScaleX="0.192453" ScaleY="0.3655172" Radians="0" />
+    </PropClass>
+  </PreviewClass>
+  <BeatChannels MaxDisplayedRows="10" />
+  <Subsequences />
+  <SequenceProps>
+    <SeqProp id="1da9c4a8-84bc-4dac-890d-5f1c58976ee5" name="LED Square" EnablePixelChannels="0">
+      <track id="74f74741-fc6e-4991-a8b4-886702cde725" name="Effects 01">
+        <effect startCentisecond="50" endCentisecond="780" intensity="100" settings="Mix_Average|0|0|full|10|lightorama_straightlines:FFFF0000,1;FF00FF00,1;FF0000FF,0;FFFFFF00,0;FFFFFFFF,0;FF000000,0:default,4,12,1,21|lightorama_none:FFFF0000,1;FF00FF00,1;FF0000FF,0;FFFFFF00,0;FFFFFFFF,0;FF000000,0:|0" />
+      </track>
+    </SeqProp>
+  </SequenceProps>
+  <ArchivedProps />
+  <RgbAggregates />
+  <TimingGrids>
+    <TimingGridFixed name="Fixed 0.1" spacing="10" />
+  </TimingGrids>
+  <BeatView />
+  <PropViews>
+    <PropView name="Show All Items" verson="2">
+      <ViewMember id="1da9c4a8-84bc-4dac-890d-5f1c58976ee5" category="Item_Summary" />
+    </PropView>
+  </PropViews>
+</sequence>
